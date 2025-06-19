@@ -1,15 +1,15 @@
-## Привет всем, я Иван Ковалёв 👋
+# Hi there, I'm Ivan Kovalev! 👋
 
-Freelance Frontend-deveoper  
+Freelance Frontend Developer  
 
-🚀 Создаю кастомные сайты и веб-приложения  
+🚀 Building custom websites and web applications  
 
-[![Website](https://img.shields.io/badge/-Мой_Сайт-000000?style=flat&logo=google-chrome&logoColor=white)](https://kovalev-site.ru)
-[![Telegram](https://img.shields.io/badge/-Обсудить_Проект-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/x_kovalev)
+[![Website](https://img.shields.io/badge/-My_Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://kovalev-site.ru)
+[![Telegram](https://img.shields.io/badge/-Discuss_Project-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/x_kovalev)
 
 ---
 
-## 🛠 Мой стек технологий
+## 🛠 My Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,11 +24,11 @@ Freelance Frontend-deveoper
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Сервисы
+### Services
 ![REST API](https://img.shields.io/badge/-REST_API-FF6F61?style=for-the-badge&logo=api&logoColor=white)
 ![AJAX](https://img.shields.io/badge/-AJAX-5A29E4?style=for-the-badge&logo=ajax&logoColor=white)
 
 ---
 
-## 🏆 Мои достижения
+## 🏆 My Achievements
 [![Codewars](https://www.codewars.com/users/ivkovalevv/badges/large)](https://www.codewars.com/users/ivkovalevv)
