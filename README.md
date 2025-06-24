@@ -34,11 +34,5 @@ Freelance Frontend Developer
 
 ---
 
-## 🔥 Key Implementations
-- **Firebase**: 
-  - Реализация аутентификации (Firebase Auth)
-  - Cloud Firestore для хранения данных
-  - Cloud Functions для серверной логики
-
 ## 🏆 My Achievements
 [![Codewars](https://www.codewars.com/users/ivkovalevv/badges/large)](https://www.codewars.com/users/ivkovalevv)
