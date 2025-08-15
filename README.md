@@ -17,7 +17,6 @@ Freelance Frontend Developer
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![MobX](https://img.shields.io/badge/-MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
 
 ### Backend & Cloud
