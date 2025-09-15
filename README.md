@@ -26,10 +26,6 @@ Freelance Frontend Developer
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
-### Services
-![REST API](https://img.shields.io/badge/-REST_API-FF6F61?style=for-the-badge&logo=api&logoColor=white)
-![AJAX](https://img.shields.io/badge/-AJAX-5A29E4?style=for-the-badge&logo=ajax&logoColor=white)
-
 ---
 
 ## 🏆 My Achievements
