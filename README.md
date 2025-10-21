@@ -37,7 +37,7 @@ Freelance Frontend Developer
 ---
 
 ## 🏆 My Achievements
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <a href="https://www.codewars.com/users/ivkovalevv">
