@@ -38,4 +38,4 @@ Freelance Frontend Developer
 
 ## 🏆 My Achievements
 [![Codewars](https://www.codewars.com/users/ivkovalevv/badges/large)](https://www.codewars.com/users/ivkovalevv)
-[![LeetCode Stats](https://leetcode.card.workers.dev/?username=ivkovalevv&style=for-the-badge&font=baloo&extension=activity)](https://leetcode.com/ivkovalevv/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ivkovalevv?theme=dark&font=baloo&ext=contest)
