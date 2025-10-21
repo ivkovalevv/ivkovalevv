@@ -38,6 +38,4 @@ Freelance Frontend Developer
 
 ## 🏆 My Achievements
 [![Codewars](https://www.codewars.com/users/ivkovalevv/badges/large)](https://www.codewars.com/users/ivkovalevv) 
-<a href="https://leetcode.com/ivkovalevv/">
-  <img src="https://img.shields.io/badge/LeetCode-ivkovalevv-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="150">
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode%20Profile-ivkovalevv-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&scale=1.5)](https://leetcode.com/ivkovalevv/)
