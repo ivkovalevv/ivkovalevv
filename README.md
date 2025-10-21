@@ -37,15 +37,15 @@ Freelance Frontend Developer
 ---
 
 ## 🏆 My Achievements
-<table frame="void" rules="none">
-  <tr>
-    <td align="center" valign="middle">
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;" align="center" valign="middle">
       <a href="https://www.codewars.com/users/ivkovalevv">
         <img src="https://www.codewars.com/users/ivkovalevv/badges/large" alt="Codewars">
       </a>
     </td>
-    <td width="50"></td>
-    <td align="center" valign="middle">
+    <td style="border: none;" width="50"></td>
+    <td style="border: none;" align="center" valign="middle">
       <a href="https://leetcode.com/ivkovalevv/">
         <img src="https://img.shields.io/badge/LeetCode-ivkovalevv-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45">
       </a>
