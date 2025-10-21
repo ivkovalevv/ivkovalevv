@@ -37,7 +37,7 @@ Freelance Frontend Developer
 ---
 
 ## 🏆 My Achievements
-<table border="0" cellspacing="0" cellpadding="0">
+<table frame="void" rules="none">
   <tr>
     <td align="center" valign="middle">
       <a href="https://www.codewars.com/users/ivkovalevv">
