@@ -37,13 +37,19 @@ Freelance Frontend Developer
 ---
 
 ## 🏆 My Achievements
-<div align="center">
-<a href="https://www.codewars.com/users/ivkovalevv" style="display: inline-block; vertical-align: middle;">
-  <img src="https://www.codewars.com/users/ivkovalevv/badges/large" alt="Codewars">
-</a>
-<span style="display: inline-block; width: 80px;"></span>
-<a href="https://leetcode.com/ivkovalevv/" style="display: inline-block; vertical-align: middle;">
-  <img src="https://img.shields.io/badge/LeetCode-ivkovalevv-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45">
-</a>
-</div>
+<table border="0">
+  <tr>
+    <td align="center">
+      <a href="https://www.codewars.com/users/ivkovalevv">
+        <img src="https://www.codewars.com/users/ivkovalevv/badges/large" alt="Codewars">
+      </a>
+    </td>
+    <td width="50"></td>
+    <td align="center">
+      <a href="https://leetcode.com/ivkovalevv/">
+        <img src="https://img.shields.io/badge/LeetCode-ivkovalevv-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45">
+      </a>
+    </td>
+  </tr>
+</table>
 
