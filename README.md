@@ -37,7 +37,7 @@ Freelance Frontend Developer
 ---
 
 ## 🏆 My Achievements
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
 [![Codewars](https://www.codewars.com/users/ivkovalevv/badges/large)](https://www.codewars.com/users/ivkovalevv)
 
