@@ -44,6 +44,8 @@ Freelance Frontend Developer
         <img src="https://www.codewars.com/users/ivkovalevv/badges/large" alt="Codewars">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://leetcode.com/ivkovalevv/">
         <img src="https://img.shields.io/badge/LeetCode-ivkovalevv-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45">
